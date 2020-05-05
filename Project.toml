@@ -1,0 +1,13 @@
+name = "MyExampleJl"
+uuid = "598cf202-3488-4ce5-9fae-b154b8f29071"
+authors = ["Aquilon11"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
